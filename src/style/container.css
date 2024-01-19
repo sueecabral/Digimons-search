@@ -1,0 +1,15 @@
+.container-bg{   
+
+    width: 100%;
+    height: 100vh;
+    position: relative;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;/*Esconde a barra de rolagem da tela*/
+    background-image: url('https://wallpapers.com/images/hd/digimon-background-0c5z28n63449d41g.jpg');
+   
+}
